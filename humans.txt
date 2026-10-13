@@ -1,0 +1,9 @@
+/* TEAM */
+Project: Nubia Odyssey
+Lead researcher: Mohamed Kasha
+Affiliation: Independent Researcher — Tomas wa Afia, Nubia, Egypt
+
+/* SITE */
+Arabic-first digital archive of Nubian civilization
+DOI: https://doi.org/10.5281/zenodo.23256126
+License: CC BY 4.0 for the Zenodo case study

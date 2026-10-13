@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /content/
+Sitemap: https://nubiaodyssey-aj2slmvq.manus.space/sitemap.xml

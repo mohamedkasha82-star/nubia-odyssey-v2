@@ -1,0 +1,444 @@
+{
+ "meta": {
+  "title": "Nubian Archives Registry",
+  "version": "1.0",
+  "date": "2026-10-12",
+  "status_codes": {
+   "V": "confirmed from the holder or a scholarly source",
+   "P": "partly confirmed (existence confirmed; access or exact holdings not)",
+   "U": "not yet verified"
+  },
+  "note": "A finding aid. It links and cites; it does not copy holdings. Check licences before reuse."
+ },
+ "archives": [
+  {
+   "id": "A1",
+   "name": "AUC Social Research Center: Ethnographic Survey of Egyptian Nubia (1961-1964)",
+   "holder": "American University in Cairo, Social Research Center",
+   "country": "EG",
+   "type": [
+    "field survey",
+    "photographs",
+    "publication"
+   ],
+   "period": "1961-1964",
+   "languages": [
+    "en",
+    "ar"
+   ],
+   "nubian_relevance": "Survey of Nubian villages before relocation and of Nubians in Cairo and Alexandria; photographs by Abdelfattah Eid (1962-64); synthesis volume Nubian Encounters (AUC Press, 2010, eds. N. Hopkins and S. Mehanna).",
+   "access": "unknown",
+   "rights": "Holder copyright; confirm with AUC",
+   "url": "https://www1.aucegypt.edu/src/nubia.htm",
+   "also": [
+    "https://fount.aucegypt.edu/faculty_books/217"
+   ],
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 2
+  },
+  {
+   "id": "A2",
+   "name": "Fernea papers (1948-2015)",
+   "holder": "Dolph Briscoe Center for American History, University of Texas at Austin",
+   "country": "US",
+   "type": [
+    "personal papers",
+    "research materials"
+   ],
+   "period": "1948-2015",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Papers of Robert and Elizabeth Fernea; Robert Fernea led the Balana study in Old Nubia. Check which boxes concern Nubia.",
+   "access": "open for research",
+   "rights": "Finding aid states no use restrictions",
+   "url": "https://collections.briscoecenter.org/repositories/2/resources/4828",
+   "status": "P",
+   "museum_state": "under review",
+   "tier": 3
+  },
+  {
+   "id": "B1",
+   "name": "Nubian recordings in the Phonogrammarchiv",
+   "holder": "Phonogrammarchiv, Austrian Academy of Sciences, Vienna",
+   "country": "AT",
+   "type": [
+    "audio"
+   ],
+   "period": "1911; 20th century (dates to be confirmed from the catalogue)",
+   "languages": [
+    "kenzi",
+    "nubian",
+    "ar"
+   ],
+   "nubian_relevance": "Recordings by Hermann Junker (1911, Kenzi: tales, songs, a text about henna) and recordings from historical Nubia by Anna Hohenwart-Gerlachstein (subject of a current project by Fayrouz Kaddal).",
+   "access": "unknown",
+   "rights": "Depositor and archive terms; contact the archive",
+   "url": "http://www.phonogrammarchiv.at",
+   "also": [
+    "https://centres.clarin.eu/centre/41",
+    "https://iframe-www.clarin.eu/content/tour-de-clarin-knowledge-centre-phonogrammarchiv",
+    "https://recordingpioneers.com/RP_JUNKER1.html"
+   ],
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 2
+  },
+  {
+   "id": "C1",
+   "name": "UNESCO Archives: Nubia campaign material",
+   "holder": "UNESCO Archives",
+   "country": "FR",
+   "type": [
+    "documents",
+    "photographs",
+    "film"
+   ],
+   "period": "1960-1980",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "nubian_relevance": "Digitised resources on the International Campaign to Save the Monuments of Nubia.",
+   "access": "online",
+   "rights": "Check licence per item",
+   "url": "https://www.worldhistory.org/collection/19/unescos-nubia--abu-simbel-campaign",
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 2,
+   "notes": "Locate the item-level catalogue on the UNESCO Archives platform before citing."
+  },
+  {
+   "id": "C2",
+   "name": "UNESDOC: International Campaign to Save the Monuments of Nubia documents",
+   "holder": "UNESCO",
+   "country": "FR",
+   "type": [
+    "documents"
+   ],
+   "period": "1960-1980",
+   "languages": [
+    "en",
+    "fr"
+   ],
+   "nubian_relevance": "Campaign reports, for example the progress report of 8 March to 8 June 1960.",
+   "access": "online",
+   "rights": "Check licence per item",
+   "url": "https://unesdoc.unesco.org/ark:/48223/pf0000127498",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "C3",
+   "name": "UNESCO documentation centres: index cards (Egypt and Sudan)",
+   "holder": "UNESCO and national documentation centres",
+   "country": "EG/SD",
+   "type": [
+    "index cards"
+   ],
+   "period": "1960-1980",
+   "languages": [
+    "en",
+    "fr",
+    "ar"
+   ],
+   "nubian_relevance": "Index cards for monuments (Egypt) and archaeological sites (Sudan), analysed by W. Carruthers (2020).",
+   "access": "unknown",
+   "rights": "Unknown",
+   "url": "https://ueaeprints.uea.ac.uk/id/eprint/71845/",
+   "status": "P",
+   "museum_state": "under review",
+   "tier": 3,
+   "notes": "Physical location and access not confirmed."
+  },
+  {
+   "id": "C4",
+   "name": "International Campaign to Save the Monuments of Nubia: executive committee reports (1963-1982)",
+   "holder": "Princeton University Library, United Nations Collection",
+   "country": "US",
+   "type": [
+    "documents"
+   ],
+   "period": "1963-1982",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Almost complete run of reports, UNESCO/NUBIA/1-22.",
+   "access": "library catalogue",
+   "rights": "Check with the library",
+   "url": "https://catalog.princeton.edu/catalog/9985456733506421",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 3
+  },
+  {
+   "id": "D1",
+   "name": "Nubian Languages and Culture Project (ELAR)",
+   "holder": "Endangered Languages Archive (ELAR)",
+   "country": "DE",
+   "type": [
+    "audio",
+    "video",
+    "documentation"
+   ],
+   "period": "21st century",
+   "languages": [
+    "nobiin",
+    "kenzi",
+    "andaandi"
+   ],
+   "nubian_relevance": "Digital repository for Nubian language and intangible heritage documentation (K. Rowan).",
+   "access": "online (free in principle; check per collection)",
+   "rights": "Depositor conditions per collection",
+   "url": "https://www.elararchive.org/",
+   "also": [
+    "https://ijih.org/volumes/article/670"
+   ],
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 1,
+   "notes": "Confirm the exact collection title and access level on the ELAR site."
+  },
+  {
+   "id": "E1",
+   "name": "Scandinavian Joint Expedition to Sudanese Nubia: archives and finds",
+   "holder": "Gustavianum, Uppsala University",
+   "country": "SE",
+   "type": [
+    "excavation archives",
+    "objects"
+   ],
+   "period": "1961-1964",
+   "languages": [
+    "en",
+    "sv"
+   ],
+   "nubian_relevance": "Salvage archaeology around Wadi Halfa during the UNESCO campaign.",
+   "access": "on request",
+   "rights": "Gustavianum",
+   "url": "https://uu.se/en/gustavianum/our-collections/the-historical-collections/egyptology/the-scandinavian-joint-expedition-to-nubia",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 2
+  },
+  {
+   "id": "E2",
+   "name": "Re-excavating SJE-350/II",
+   "holder": "University of Copenhagen (TexMeroe); records (c) Gustavianum Museum",
+   "country": "DK/SE",
+   "type": [
+    "online archive",
+    "photographs",
+    "drawings",
+    "reports"
+   ],
+   "period": "1963",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Digitised 1960s excavation records of a Late Antique grave in Sudanese Nubia.",
+   "access": "online",
+   "rights": "(c) Gustavianum Museum, Uppsala University",
+   "url": "https://nubianburial.ku.dk/collections/show/1",
+   "also": [
+    "https://ctr.hum.ku.dk/nyhedsliste/just-launched-re-excavating-sje-350ii/"
+   ],
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "E3",
+   "name": "Digital reconstruction of the SJE concession landscape (dataset snd0944)",
+   "holder": "Swedish National Data Service; Uppsala University",
+   "country": "SE",
+   "type": [
+    "GIS dataset"
+   ],
+   "period": "1961-1964",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "GIS reconstruction of a landscape now submerged by Lake Nasser.",
+   "access": "open data",
+   "rights": "Check licence on the catalogue record",
+   "url": "https://snd.se/en/catalogue/dataset/snd0944-1",
+   "also": [
+    "https://doi.org/10.5878/002087"
+   ],
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "F1",
+   "name": "Oriental Institute Archives: Breasted Egyptian Expedition photographs (1905-1907)",
+   "holder": "Institute for the Study of Ancient Cultures, University of Chicago",
+   "country": "US",
+   "type": [
+    "photographs"
+   ],
+   "period": "1905-1907",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "About 1,200 negatives; catalogue Lost Nubia (OIMP 24) of 52 photographs.",
+   "access": "catalogue downloadable",
+   "rights": "Check ISAC terms of use",
+   "url": "https://isac.uchicago.edu/node/3282",
+   "also": [
+    "https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/oimp24.pdf"
+   ],
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "F2",
+   "name": "Oriental Institute Nubian Expedition (1960-1968)",
+   "holder": "Institute for the Study of Ancient Cultures, University of Chicago",
+   "country": "US",
+   "type": [
+    "publications",
+    "objects"
+   ],
+   "period": "1960-1968",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Eleven volumes of final reports; about 15,000 objects.",
+   "access": "publications and gallery",
+   "rights": "Check ISAC terms of use",
+   "url": "https://isac.uchicago.edu/node/2479",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "G1",
+   "name": "Sudan Collection (Khartoum Collection)",
+   "holder": "University of Bergen Library, Special Collections",
+   "country": "NO",
+   "type": [
+    "manuscripts",
+    "documents"
+   ],
+   "period": "several centuries",
+   "languages": [
+    "ar"
+   ],
+   "nubian_relevance": "Copies of Sudanese manuscripts and documents digitised into a repository (Tsakos, Paasche, K. M. Omar).",
+   "access": "digital repository",
+   "rights": "Check repository terms",
+   "url": "https://onlinejournals.uofk.edu/JFA/article/view/2093",
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 2
+  },
+  {
+   "id": "H1",
+   "name": "Narrating Nubia",
+   "holder": "University of Michigan",
+   "country": "US",
+   "type": [
+    "online exhibition",
+    "oral memory"
+   ],
+   "period": "21st century",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Collaborative exhibition on displacement and oral memory.",
+   "access": "online",
+   "rights": "Check site terms",
+   "url": "https://sites.lsa.umich.edu/nubia/exhibition/displacement/",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 1
+  },
+  {
+   "id": "H2",
+   "name": "Digital Nubia",
+   "holder": "UCLA with Politecnico di Torino",
+   "country": "US/IT",
+   "type": [
+    "3D reconstruction",
+    "project"
+   ],
+   "period": "21st century",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Digital reconstruction of Nubian places with displaced communities.",
+   "access": "project pages",
+   "rights": "Check project terms",
+   "url": "https://archvr.ucla.edu/?p=16",
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 3
+  },
+  {
+   "id": "H3",
+   "name": "Nubian Chronicles",
+   "holder": "University of York",
+   "country": "UK",
+   "type": [
+    "research project"
+   ],
+   "period": "2025 onward",
+   "languages": [
+    "en"
+   ],
+   "nubian_relevance": "Funded project led by Ahmed El Antably.",
+   "access": "project pages",
+   "rights": "n/a",
+   "url": "https://www.york.ac.uk/news-and-events/news/2025/research/ahmed-el-antably-to-lead-new-project/",
+   "status": "V",
+   "museum_state": "documented",
+   "tier": 2
+  },
+  {
+   "id": "H4",
+   "name": "Database of Medieval Nubian Texts",
+   "holder": "(see article)",
+   "country": "",
+   "type": [
+    "database"
+   ],
+   "period": "medieval",
+   "languages": [
+    "multiple"
+   ],
+   "nubian_relevance": "Digital foundation for the study of medieval literate culture in Nubia.",
+   "access": "online",
+   "rights": "Check database terms",
+   "url": "https://digitalorientalist.com/2026/05/15/the-database-of-medieval-nubian-texts-a-digital-foundation-for-the-study-of-medieval-african-literate-culture/",
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 3
+  },
+  {
+   "id": "H5",
+   "name": "Sudan Virtual Museum",
+   "holder": "(see article)",
+   "country": "SD",
+   "type": [
+    "online museum"
+   ],
+   "period": "2026",
+   "languages": [
+    "ar",
+    "en"
+   ],
+   "nubian_relevance": "Online heritage platform launched during the war.",
+   "access": "online",
+   "rights": "Check site terms",
+   "url": "https://www.finestresullarte.info/en/museums/sudan-virtual-museum-cultural-heritage-online-despite-war-is-born",
+   "status": "P",
+   "museum_state": "partially documented",
+   "tier": 3
+  }
+ ]
+}
